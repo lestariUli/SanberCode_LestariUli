@@ -31,7 +31,7 @@ class Cart extends Component{
             ):
 
              (
-                <p className="empty-cart">Belum ada Pesanan dong, Skuyy Order</p>
+                <p className="empty-cart">Belum ada Pesanan dong, Skuyyyy Order</p>
              )
        return(
             <div className="container">

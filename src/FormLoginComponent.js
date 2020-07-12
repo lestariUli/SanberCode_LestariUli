@@ -46,7 +46,7 @@ function FormLoginComponent(props){
             </label>
             <br />
             <br/>
-            <button className="submit">Masuk</button>
+            <button className="submit">Masukk</button>
             </form>
             <hr/>
             <div className="info">
