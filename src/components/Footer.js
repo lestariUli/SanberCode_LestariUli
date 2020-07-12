@@ -10,7 +10,7 @@ function Footer() {
   return (
     <div class="social-container">
       <h5>Social Media TobaFood_Lestari</h5>
-      <p>TobaFood_Lestarii dibangun dalam rangka memenuhi Final Project Bootcamp React.js di SanberCode. </p>
+      <p>TobaFood_Lestariiiiii dibangunnn dalam rangka memenuhi Final Project Bootcamp React.js di SanberCode. </p>
       <a href="#" className="youtube social">
         <FontAwesomeIcon icon= {faYoutube} size="2x" />
       </a>
